@@ -16,3 +16,4 @@ Carrito de compras
 
 8.,Cebollas 
 
+9.,Botellas de agua
