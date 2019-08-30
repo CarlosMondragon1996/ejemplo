@@ -12,3 +12,5 @@ Carrito de compras
 
 6.,Tomates
 
+7.,Chiles 
+
